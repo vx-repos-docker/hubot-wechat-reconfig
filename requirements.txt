@@ -1,0 +1,4 @@
+pyqrcode
+qrtools
+requests
+Pillow
