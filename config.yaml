@@ -12,6 +12,7 @@
 
 # Wx Urls #
 baseUrl: "https://wx.qq.com/cgi-bin/mmwebwx-bin"
+baseSyncChkUrl: "https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin"
 baseUploadUrl: "https://file.wx.qq.com/cgi-bin/mmwebwx-bin" #file/file2
 getContactUrl: "/webwxgetcontact"
 batchGetContactUrl: "/webwxbatchgetcontact"
